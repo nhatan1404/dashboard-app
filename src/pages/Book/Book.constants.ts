@@ -1,0 +1,22 @@
+export const GET_LIST_BOOK_REQUESTED: string = 'GET_LIST_BOOK_REQUESTED';
+export const GET_LIST_BOOK_SUCCESS: string = 'GET_LIST_BOOK_SUCCESS';
+export const GET_LIST_BOOK_FAILED: string = 'GET_LIST_BOOK_FAILED';
+
+export const GET_ITEM_BOOK_REQUESTED: string = 'GET_ITEM_BOOK_REQUESTED';
+export const GET_ITEM_BOOK_SUCCESS: string = 'GET_ITEM_BOOK_SUCCESS';
+export const GET_ITEM_BOOK_FAILED: string = 'GET_ITEM_BOOK_FAILED';
+
+export const CREATE_BOOK_REQUESTED: string = 'CREATE_BOOK_REQUESTED';
+export const CREATE_BOOK_SUCCESS: string = 'CREATE_BOOK_SUCCESS';
+export const CREATE_BOOK_FAILED: string = 'CREATE_BOOK_FAILED';
+
+export const EDIT_BOOK_REQUESTED: string = 'EDIT_BOOK_REQUESTED';
+export const EDIT_BOOK_SUCCESS: string = 'EDIT_BOOK_SUCCESS';
+export const EDIT_BOOK_FAILED: string = 'EDIT_BOOK_FAILED';
+
+export const DELETE_BOOK_REQUESTED: string = 'DELETE_BOOK_REQUESTED';
+export const DELETE_BOOK_SUCCESS: string = 'DELETE_BOOK_SUCCESS';
+export const DELETE_BOOK_FAILED: string = 'DELETE_BOOK_FAILED';
+
+export const REMOVE_CURRENT_BOOK: string = 'REMOVE_CURRENT_BOOK';
+export const REMOVE_MESSAGE: string = 'REMOVE_MESSAGE';
